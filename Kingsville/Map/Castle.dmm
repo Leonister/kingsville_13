@@ -1,0 +1,101 @@
+"a" = (/turf/Grass/Darkgrass1,/area)
+"b" = (/turf/Dirt/Dirt1,/area)
+"c" = (/turf/Grass/Darkgrass6,/area)
+"d" = (/turf/Dirt/Dirt10,/area)
+"e" = (/turf/Dirt/Dirt11,/area)
+"f" = (/turf/Dirt/Dirt6,/area)
+"g" = (/turf/Dirt/Dirt7,/area)
+"h" = (/turf/Cobble/Cobble1{tag = "icon-cobbleside (NORTHWEST)"; icon_state = "cobbleside"; dir = 9},/area)
+"i" = (/turf/Cobble/Cobble1{tag = "icon-cobbleside (NORTH)"; icon_state = "cobbleside"; dir = 1},/area)
+"j" = (/turf/Cobble/Cobble1{tag = "icon-cobbleside (NORTHEAST)"; icon_state = "cobbleside"; dir = 5},/area)
+"k" = (/turf/Cobble/Cobble1{tag = "icon-cobbleside (WEST)"; icon_state = "cobbleside"; dir = 8},/area)
+"l" = (/turf/Cobble/Cobble3,/area)
+"m" = (/turf/Cobble/Cobble1{tag = "icon-cobbleside (EAST)"; icon_state = "cobbleside"; dir = 4},/area)
+"n" = (/turf/Cobble/Cobble2,/area)
+"o" = (/turf/Cobble/Cobble1,/area)
+"p" = (/turf/Cobble/Cobble1{tag = "icon-cobbleside (SOUTHEAST)"; icon_state = "cobbleside"; dir = 6},/area)
+"q" = (/turf/Dirt/Dirt13,/area)
+"r" = (/turf/brickwall/Ironwall,/area)
+"s" = (/turf/Grass/Darkgrass7,/area)
+"t" = (/turf/Stone/Stone1,/area)
+"u" = (/obj/lantern/Lantern,/turf/Stone/Stone1,/area)
+"v" = (/obj/lantern/Lantern,/turf/Cobble/Cobble1{tag = "icon-cobbleside (NORTHWEST)"; icon_state = "cobbleside"; dir = 9},/area)
+"w" = (/turf/Grass/Darkgrass3,/area)
+"x" = (/turf/Grass/Darkgrass5,/area)
+"y" = (/turf/Grass/Darkgrass4,/area)
+"z" = (/turf/Cobble/Cobble1{tag = "icon-cobbleside (SOUTHWEST)"; icon_state = "cobbleside"; dir = 10},/area)
+"A" = (/turf/Cobble/Cobble2{tag = "icon-cobblecorner (NORTHWEST)"; icon_state = "cobblecorner"; dir = 9},/area)
+"B" = (/turf/Cobble/Cobble4,/area)
+"C" = (/obj/lantern/Lantern,/turf/Grass/Darkgrass1,/area)
+"D" = (/turf/Cobble/Cobble2{tag = "icon-cobblecorner (SOUTHEAST)"; icon_state = "cobblecorner"; dir = 6},/area)
+"E" = (/turf/Cobble/Cobble4{tag = "icon-cobblenarrow (EAST)"; icon_state = "cobblenarrow"; dir = 4},/area)
+"F" = (/turf/Cobble/Cobble4{tag = "icon-cobblenarrow (SOUTHEAST)"; icon_state = "cobblenarrow"; dir = 6},/area)
+"G" = (/obj/lantern/Lantern,/turf/Stone/Stone7,/area)
+"H" = (/turf/Stone/Stone3,/area)
+"I" = (/turf/Stone/Stone5,/area)
+"J" = (/turf/Stone/Stone6,/area)
+"K" = (/obj/lantern/Unlit_Lantern,/turf/Stone/Stone1,/area)
+"L" = (/turf/Stone/Stone2,/area)
+"M" = (/turf/Dirt/Dirt9,/area)
+"N" = (/turf/Stone/Stone8,/area)
+"O" = (/turf/Stone/Stone4,/area)
+"P" = (/turf/Cobble/Cobble2{tag = "icon-cobblecorner (EAST)"; icon_state = "cobblecorner"; dir = 4},/area)
+"Q" = (/turf/Cobble/Cobble2{tag = "icon-cobblecorner (WEST)"; icon_state = "cobblecorner"; dir = 8},/area)
+"R" = (/turf/Stone/Stone7,/area)
+"S" = (/turf/Dirt/Dirt8,/area)
+"T" = (/turf/Dirt/Dirt2,/area)
+"U" = (/turf/Dirt/Dirt12,/area)
+"V" = (/turf/Dirt/Dirt3,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaabaaaaaaabbbaaabbbaaabaaaaaaaaaaaaaaa
+aaaaaaaaaabbbaaabbbbbabaaaaaabaaababaaaaaaaaaaaaaa
+aaaaaaaaaaabaabababababbaaaaabaaaabaaaaaaaaaaaaaaa
+aaaaaaaaaaabaababaaababbbaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaabbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaabaaaabbbabbaaabaabbaaaaaaaaaaaaaaaaaaaa
+aacaaaaaaaabbaaaabaababaaaaababaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaabbaaabaabbaaabaabbaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabaaabaababaabaabaaaaaaaaaaaaacaaaaaaa
+aaaaaaaaaaabbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbaaaaaaabbaaabaaabbaabbbaaaaaaaaa
+bdbbebbdbfbbbbbbbbaaaaaabaaaababaabababaaaaaaaaaaa
+bbbbbbbebbbbbbbbbbaaaaaabaaaababaabababbaaaaaaaaaa
+bbbbbbbbbbdbbbbbbbaaaaaabbbaaabaaabbaabbbaaaaaaaaa
+bbbfbbbbbbbebbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbgaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bhiiiiiiiiijaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bklllllllllmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bknoooooooopaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ekmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dkmaaaaaaaaacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+qkmaaaaaaaaaaaaaaaarrrrrrrrrrrraaaaaaaaaaaaaaaaaaa
+bkmaasaaaaaaaaaaaaarttttttttttraaaaaaaaaaaacaaaaaa
+bkmaaaaaacaaaaaaaaarttttttttttraaaaaaaaaaaaaaaaaaa
+bkmcaaaaaaaaaacaaaarutttttttttraaaaaaaaaaaaaaaaaaa
+bkmaaaaaaaaaaaaaaaarrtrrrrrtttraaaaaaaaaaaaaaaaaaa
+bkmaaaaaaaaaaaaaaaaviiiiijrtttraaaaaaaaaaaaaaaaaaa
+bkmaaaaaaaaaaaaaaaaklllllmrtttraaaaaaaaaaaaaaaaaaa
+bkmaaaaaaaacaaaaaaaklllllmttttraaaaaaaaaaaaaaaaaaa
+bkmaaaaaacawxxxxyaaklllllmrtttraaaaaaaaaaaaaaaaaaa
+bkmaaaaaaaaaaaaaaaazooAooprrrrraaaaaaaaaaaaaaaaaaa
+bkmaacaaaaaaaaaaaaaaaaBaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bkmaaaaaaaaaaaacaaasaaBaaaaaaaaaaaaaaaaaaaaaaaaaaa
+gkmacaaaaaaaaaaaaaaacaBaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bkmaaaaaaaaaaaaaaaaaaCBaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bkDEEEEEEEEEEEEEEEEEEEFaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bkmGtHtttttIttttJttttttaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bkmttttttttKuKtttttLtttaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bkmtttIutttttttttttttttaaaaaaaaaaaaaaaaaaaaaaaaaaa
+MkmLtttttttNttOtttttttJaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bkmttttJtttttttttttttttaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bkPiiiiiiiiijtLttttItttaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bzoooooooooQmttttttttttaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbdbbbgkmtttttRttttaaaaaaaaaaaaaaaaaaaaaaaaaaa
+STTTbUVbbbbkmttttttttLtaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbdUbbbbkmtItttHttttaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
